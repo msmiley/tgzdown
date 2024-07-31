@@ -1,0 +1,13 @@
+{
+  "name": "tgzdown",
+  "version": "1.0.0",
+  "author": "Mike Smiley <msmiley@alumni.rice.edu>",
+  "url": "https://github.com/msmiley/tgzdown",
+  "repository": "msmiley/clusterizer.git",
+  "bin": {
+    "tgzdown": "index.js"
+  },
+  "scripts": {
+  },
+  "license": "ISC"
+}

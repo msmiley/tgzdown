@@ -7,7 +7,13 @@
   "bin": {
     "tgzdown": "index.js"
   },
-  "scripts": {
-  },
+  "keywords": [
+    "tgz",
+    "downloader",
+    "offline",
+    "verdaccio",
+    "download",
+    "packager"
+  ],
   "license": "ISC"
 }
